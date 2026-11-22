@@ -53,7 +53,7 @@ Power BI report on flight delays at Dubai International (DXB), built on data I c
 
 ## Files
 - [Report PDF](report/DXB-Sky-Intelligence.pdf)
-- [Data dictionary](docs/data-dictionary.pdf)
+- [Data dictionary](docs/data-dictionary.md)
 - Video walkthrough: *(link to be added)*
 
 ## Tools
